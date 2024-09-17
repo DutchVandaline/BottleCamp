@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DutchVandaline/Pequod">
+  <a href="https://github.com/DutchVandaline/BottleCamp">
     <img src="https://github.com/user-attachments/assets/e6ec5b93-2b39-4dbd-bdf1-ef4aebff7382" alt="Logo" width="100" height="100">
   </a>
 
