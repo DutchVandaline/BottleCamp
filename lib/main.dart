@@ -1,6 +1,8 @@
 import 'package:bottlecamp/Screens/MainScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'Themes/LightTheme.dart';
+import 'Themes/DarkTheme.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,7 +24,9 @@ class _MyAppState extends State<MyApp> {
     ]);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MainScreen(),
+      theme: LightTheme().theme,
+      darkTheme: DarkTheme().theme,
+      home: const MainScreen(),
       builder: (context, child) => MediaQuery(
           data: MediaQuery.of(context)
               .copyWith(textScaler: const TextScaler.linear(1.0)),

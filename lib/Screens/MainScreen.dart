@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 class MainScreen extends StatefulWidget {
   final int initialIndex;
 
-  const MainScreen({super.key, this.initialIndex = 2});
+  const MainScreen({super.key, this.initialIndex = 1});
 
   @override
   State<MainScreen> createState() => _MainScreenState();
@@ -49,21 +49,21 @@ class _MainScreenState extends State<MainScreen> {
           NavigationDestination(
               icon: Icon(
                 Icons.pin_drop_outlined,
-                size: 30.0,
+                size: 33.0,
                 color: Theme.of(context).primaryColorLight,
               ),
               label: "Habit"),
           NavigationDestination(
               icon: Icon(
                 Icons.home_filled,
-                size: 30.0,
+                size: 33.0,
                 color: Theme.of(context).primaryColorLight,
               ),
               label: "Home"),
           NavigationDestination(
               icon: Icon(
                 Icons.settings_outlined,
-                size: 30.0,
+                size: 33.0,
                 color: Theme.of(context).primaryColorLight,
               ),
               label: "Settings"),
