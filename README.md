@@ -73,19 +73,20 @@
 
 ## Development Blog
 <a href="https://dutchvandaline.github.io/BottleCamp-Day1/">
-    <img src="https://img.shields.io/badge/Github-171515?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/badge/Github Blog-171515?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
-    </a>
+</a>
 
 ## Key Features
 📍 You can locate the map of coffee shops.<br/>
 🪴 You can get points for our shop when you use reusable bottle!<br/>
 🍾 Artificial Intelligence verifies your photo and check.<br/>
 
+<!--
 <img src="https://github.com/user-attachments/assets/7f15a1f3-65ca-4ae7-912a-4b3ccd8533bd"  width="270" height="270"/>
 <img src="https://github.com/user-attachments/assets/e8c4e3cb-f104-434a-aa85-7c6a830e7427"  width="270" height="270"/>
 <img src="https://github.com/user-attachments/assets/ee63f9bc-6e4f-4300-8772-ca883150ca8f"  width="270" height="270"/>
-
+-->
 ### Built With
 
 * [![Flutter][Flutter]][Flutter-url]
