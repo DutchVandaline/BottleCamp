@@ -72,7 +72,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Development Blog
-✒️ I am writing Tech blog, 'Tech Blog, I guess?'. It's updating and progressing. <br>
+✒️ I am writing blog, 'Tech Blog, I guess?'. It's updating and progressing. <br><br>
 <a href="https://dutchvandaline.github.io/BottleCamp-Day1/">
     <img src="https://img.shields.io/badge/Github Blog BottleCamp Day 1-171515?style=for-the-badge&logo=github&logoColor=white"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
